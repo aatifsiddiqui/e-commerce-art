@@ -11,8 +11,8 @@ export const ButtonContainer = styled.button`
     margin: 0.2rem 0.5rem 0.2rem 0;
     transition:all 0.07s ease-in-out;
     &:hover{
-        background: rgba(255,255,255,0.2);
-        color:rgba(0,0,0,1);
+        background: rgba(0,0,0,0.9);
+        color:rgba(255,255,255,0.9);
 
 
     }
